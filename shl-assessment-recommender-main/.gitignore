@@ -1,0 +1,10 @@
+# virtual environment
+venv/
+shl-assessment-recommender-main/venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# env files
+.env
